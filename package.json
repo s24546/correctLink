@@ -4,6 +4,10 @@
   "devDependencies": {
     "mocha": "^10.2.0"
   },
+  
+"publishConfig": {
+  "registry": "https://npm.pkg.github.com"
+},
   "description": "xyz",
   "main": "index.js",
   "dependencies": {
